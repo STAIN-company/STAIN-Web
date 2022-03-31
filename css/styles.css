@@ -18,7 +18,39 @@ header {
 /* Changing the background color for the navigation bar */
 
 .navbar {
+	color: #ffffff;
 	background-color: #1D1D1D;
+	font-family: 'Anton', sans-serif;
+	
+}
+
+.titles {
+	font-family: 'Anton', sans-serif;
+}
+
+.heading2 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 800;
+}
+
+.heading3 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 700;
+}
+
+.heading4 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 600;
+}
+
+.heading5 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 500;
+}
+
+.heading6 {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 300;
 }
 
 /* Effect on social media buttons */
