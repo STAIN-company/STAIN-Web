@@ -24,8 +24,14 @@ header {
 	
 }
 
-.titles {
+.titles-carousel {
 	font-family: 'Anton', sans-serif;
+	text-align: left;
+	font-size: 400%
+}
+
+.align-left {
+	text-align: left;
 }
 
 .heading2 {
