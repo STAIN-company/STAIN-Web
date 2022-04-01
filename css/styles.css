@@ -48,6 +48,8 @@ header {
 .heading4 {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 600;
+	color: #ffffff;
+	text-align: left;
 }
 
 .heading5 {
@@ -74,6 +76,7 @@ header {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 600;
 }
+
 /* Effect on social media buttons */
 
 footer a:hover {
