@@ -42,6 +42,7 @@ header {
 .heading3 {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 700;
+	color: #ffffff;
 }
 
 .heading4 {
@@ -52,16 +53,30 @@ header {
 .heading5 {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 500;
+	color: #ffffff;
 }
 
 .heading6 {
 	font-family: 'Montserrat', sans-serif;
 	font-size: 300;
 }
+.card {
+	background-color:rgba(255,255,255,0.00);
+}
 
+.card-img-top {
+	width: 50%;
+}
+
+.btn-stain-points {
+	background: #1d1d1d;
+	color:#e55101;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 600;
+}
 /* Effect on social media buttons */
 
 footer a:hover {
-	background-color: #1D1D1D
+	background-color: #1D1D1D;
 	opacity: .5;
 }
