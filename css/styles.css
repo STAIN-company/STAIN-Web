@@ -26,7 +26,8 @@ header {
 .titles-carousel {
 	font-family: 'Anton', sans-serif;
 	text-align: left;
-	font-size: 400%
+	font-size: 400%;
+	color: #FFFFFF;
 }
 
 .align-left {
