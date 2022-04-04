@@ -75,6 +75,7 @@ header {
 
 .card-img-top {
 	width: 50%;
+	align-self: center;
 }
 
 .card-image-top-product-page {
@@ -86,6 +87,11 @@ header {
 	color:#e55101;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 600;
+	border-color: #e55101;
+}
+
+.card {
+	border:none;
 }
 
 /* Effect on social media buttons */
