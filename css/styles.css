@@ -105,6 +105,9 @@ header {
 	color: #ffffff;
 }
 
+.img-collab {
+	width: 30%;
+}
 footer a:hover {
 	background-color: #1D1D1D;
 	opacity: .5;
