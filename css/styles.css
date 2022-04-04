@@ -94,6 +94,9 @@ header {
 	border:none;
 }
 
+.card-body-team {
+	text-align-last: center;
+}
 /* Effect on social media buttons */
 
 footer a:hover {
