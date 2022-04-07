@@ -71,7 +71,7 @@ header {
 }
 
 .icon-caroursel {
-	filter:invert(100%) sepia(20%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);;
+	filter:invert(100%) sepia(20%) saturate(2476%) hue-rotate(86deg) brightness(118%) contrast(119%);
 }
 
 .card {
@@ -123,6 +123,12 @@ header {
 	text-decoration: none;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 600;
+}
+
+.hastag {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 700;
+	color: #d001e5; 
 }
 footer a:hover {
 	background-color: #1D1D1D;
