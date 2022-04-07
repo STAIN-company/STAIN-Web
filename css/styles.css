@@ -109,10 +109,20 @@ header {
 	background: #e50132;
 	border:none;
 	color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 600;
 }
 
 .img-collab {
 	width: 30%;
+}
+
+.btn-contactnow {
+	background: #e5019b;
+	color: #ffffff;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 600;
 }
 footer a:hover {
 	background-color: #1D1D1D;
