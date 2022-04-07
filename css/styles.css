@@ -156,3 +156,6 @@ footer a:hover {
 	background-color: #1D1D1D;
 	opacity: .5;
 }
+
+@media (max-width: 1500px){
+}
