@@ -100,9 +100,7 @@ header {
 	border:none;
 }
 
-.card-body-team {
-	text-align-last: center;
-}
+
 /* Effect on social media buttons */
 
 .btn-send {
@@ -129,6 +127,30 @@ header {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
 	color: #d001e5; 
+}
+
+.accent-1 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	color: #e5019b;
+}
+
+.accent-2 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	color: #e55101;
+}
+
+.accent-3 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	color: #e50132;
+}
+
+.accent-4 {
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	color: #d001e5;
 }
 footer a:hover {
 	background-color: #1D1D1D;
