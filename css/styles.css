@@ -153,13 +153,6 @@ header {
 	color: #d001e5;
 }
 
-.btn-homepage-product {
-	background: #e55101;
-	color: #ffffff;
-	text-decoration: none;
-	font-family: 'Montserrat', sans-serif;
-	font-size: 600;
-}
 footer a:hover {
 	opacity: .50;
 }
