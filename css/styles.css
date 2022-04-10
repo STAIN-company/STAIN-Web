@@ -93,12 +93,14 @@ header {
 
 .btn-stain-points {
 	background: #1d1d1d;
+	outline-color: #e55101;
+	outline: solid;
 	color:#e55101;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 600;
-	border:medium;
 	text-decoration: none;
-	border-color: #e55101;
+	display:flex;
+	justify-content: center; 
 	
 }
 
