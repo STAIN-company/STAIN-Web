@@ -96,6 +96,8 @@ header {
 	color:#e55101;
 	font-family: 'Montserrat', sans-serif;
 	font-size: 600;
+	border:medium;
+	text-decoration: none;
 	border-color: #e55101;
 	
 }
